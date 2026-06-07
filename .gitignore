@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.streamlit/
+.venv/
+venv/
+env/
+dist/
+build/
+*.log
+*.tmp
+
+# Local data and exports
+data/
+outputs/
+reports/
+*.csv
+*.xlsx
+!sample_data/
+!sample_data/**
+
+# OS files
+Thumbs.db
+Desktop.ini
