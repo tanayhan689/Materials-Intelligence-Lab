@@ -17,6 +17,8 @@ reports/
 *.xlsx
 !sample_data/
 !sample_data/**
+sample_data/train.csv
+sample_data/unique_m.csv
 
 # OS files
 Thumbs.db
